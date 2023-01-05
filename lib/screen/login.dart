@@ -19,7 +19,7 @@ class LoginScreen extends StatelessWidget {
           child: Stack(
             children: [
               const RiveAnimation.asset(
-                'assets/rive/vehicle.riv',
+                'assets/rive/2195-4346-avatar-pack-use-case.riv',
                 fit: BoxFit.cover,
               ),
               Positioned(
